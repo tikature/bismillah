@@ -2,7 +2,7 @@ package src.main.java;
 
 public enum ShapeType {
     CIRCLE("Circle", 1),
-    SQUARE("Square", 1),
+    SQUARES("Square", 1),
     RECTANGLE("Rectangle", 2);
 
     private final String name;
