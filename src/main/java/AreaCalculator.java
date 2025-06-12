@@ -10,7 +10,7 @@ public class AreaCalculator {
         }
 
         switch (shape) {
-            case CIRCLE:
+            case CIRCLES:
                 double radius = params[0];
                 return Math.PI * radius * radius;
             case SQUARE:
