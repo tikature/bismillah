@@ -1,4 +1,4 @@
-package src.main.java.ShapeType;
+package geometry;
 
 public class AreaCalculator {
 

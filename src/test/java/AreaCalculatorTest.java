@@ -1,4 +1,4 @@
-package src.main.java;
+package geometry;
 
 import static org.junit.Assert.*;
 import org.junit.Test;

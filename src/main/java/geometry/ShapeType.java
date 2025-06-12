@@ -1,4 +1,4 @@
-package src.main.java;
+package geometry;
 
 public enum ShapeType {
 	CIRCLE("Circle", 1),
